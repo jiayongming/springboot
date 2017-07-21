@@ -2,11 +2,11 @@
 spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
 
 # 推荐 springcloud-learning-example
-[spring cloud 实践学习案例](https://github.com/JeffLi1993/springcloud-learning-example)<br>
-https://github.com/JeffLi1993/springcloud-learning-example
+[spring cloud 实践学习案例](https://github.com/jiayongming/springboot)<br>
+https://github.com/jiayongming/springboot
 
 ## 作者与学习乐园
-源码地址：我的[GitHub地址](https://github.com/jiayongming "GitHub")<br>
+源码地址：我的[GitHub地址](https://github.com/jiayongming/springboot "GitHub")<br>
 
 ## 一、项目结构
 「Spring Boot 那些事」：[传送门](http://www.bysocket.com/?page_id=1639 "Spring Boot 那些事")<br>
